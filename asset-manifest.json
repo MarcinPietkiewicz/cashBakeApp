@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cashBakeApp/static/css/main.506855ac.chunk.css",
+    "main.js": "/cashBakeApp/static/js/main.e7a50b47.chunk.js",
+    "main.js.map": "/cashBakeApp/static/js/main.e7a50b47.chunk.js.map",
+    "runtime~main.js": "/cashBakeApp/static/js/runtime~main.d45f00ff.js",
+    "runtime~main.js.map": "/cashBakeApp/static/js/runtime~main.d45f00ff.js.map",
+    "static/css/2.d4b275d9.chunk.css": "/cashBakeApp/static/css/2.d4b275d9.chunk.css",
+    "static/js/2.2194fd8b.chunk.js": "/cashBakeApp/static/js/2.2194fd8b.chunk.js",
+    "static/js/2.2194fd8b.chunk.js.map": "/cashBakeApp/static/js/2.2194fd8b.chunk.js.map",
+    "index.html": "/cashBakeApp/index.html",
+    "precache-manifest.72aa770487f6a62106171e7e3704d21b.js": "/cashBakeApp/precache-manifest.72aa770487f6a62106171e7e3704d21b.js",
+    "service-worker.js": "/cashBakeApp/service-worker.js",
+    "static/css/2.d4b275d9.chunk.css.map": "/cashBakeApp/static/css/2.d4b275d9.chunk.css.map",
+    "static/css/main.506855ac.chunk.css.map": "/cashBakeApp/static/css/main.506855ac.chunk.css.map",
+    "static/media/costs.svg": "/cashBakeApp/static/media/costs.f862badb.svg",
+    "static/media/logo.svg": "/cashBakeApp/static/media/logo.0027f4d6.svg",
+    "static/media/pig.svg": "/cashBakeApp/static/media/pig.532bb595.svg",
+    "static/media/revenues.svg": "/cashBakeApp/static/media/revenues.8da0e5af.svg"
+  }
+}
