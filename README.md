@@ -1,7 +1,7 @@
 # Cash Bake app
 ## Your personal finances app!
 ---
-[https://marcinpietkiewicz.github.io/cashBakeApp/] (Demo website)
+[Demo website](https://marcinpietkiewicz.github.io/cashBakeApp/)
 ---
 A simple personal budget app that let's you:
 - control your finances
