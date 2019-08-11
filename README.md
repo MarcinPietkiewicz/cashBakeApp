@@ -1,7 +1,7 @@
 # Cash Bake app
 ## Your personal finances app!
 
-[Demo website](https://marcinpietkiewicz.github.io/cashBakeApp/login)
+[Demo website](https://marcinpietkiewicz.github.io/login)
 
 ---
 
